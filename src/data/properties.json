@@ -1,0 +1,701 @@
+[
+  {
+    "listing_id": 0,
+    "property_name": "3,088 Commercial Lot",
+    "location": "J.P. Laurel Avenue, Bajada, Davao City",
+    "property_type": "Commercial Lot",
+    "description": "This property is situated along JP Laurel Avenue, Bajada, Davao City. It is located at one of Davao City’s most progressive districts with a diverse set of establishments namely the Social Security System-Davao, Southern Philippines Medical Center, and other prominent landmarks. This 3,088 sqm property is 2 kilometers away from SM Lanang Premier and Damosa IT Park and a kilometer away from Ayala Abreeza Mall. The location of the property is highly accessible with various roads leading to it partnered with all forms of transport. ",
+    "thumb_path": "commercial_lot_3088.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "Leased Out",
+    "url_path": "3088sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "3,088 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "59 m"
+      },
+      {
+        "icon": "broadcast-tower",
+        "key": "Existing Structures",
+        "value": "Light Structures"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Hotels, Showrooms, Gas station with Commercial Building, Free standing/Drive Thru Restaurants, Condominium, and Depots."
+      }
+    ],
+    "keywords": ""
+  },
+  {
+    "listing_id": 1,
+    "property_name": "4,337 Commercial Lot",
+    "location": "J.P. Laurel Avenue, Bajada, Davao City",
+    "property_type": "Commercial Lot",
+    "description": "This property is situated along J.P. Laurel Avenue, one of Davao City’s main and busiest highways going to North (Sasa, Panacan area) and South (Matina, Ecoland). Bajada area with its premium development like Cybergate Delta, Abreeza Mall and rising structures such as Aeon Tower, and Obsidian Suites, makes this vicinity as one of the finest and one of the most ideal commercial spot in the city. Most conveniently it is supported by major public transportation, providing accessibility in and out of Davao City.",
+    "thumb_path": "commercial_lot_4337.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "4337sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "4,337 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "44.63 m"
+      },
+      {
+        "icon": "broadcast-tower",
+        "key": "Existing Structures",
+        "value": "Light Structures"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Hotels, Showrooms, Gas station with Commercial Building, Free standing/Drive Thru Restaurants, Condominium, and Depots."
+      }
+    ],
+    "keywords": "Commercial lot in Bajada, Bajada Lot, Commercial Lot for lease in Bajada, lot lease in Bajada, Bajada Area lots, 4,000 sqm lot for lease/rent in Davao, 4,000 sqm lot for lease/rent in Bajada, Available lots in Bajada"
+  },
+  {
+    "listing_id": 2,
+    "property_name": "4,152 Commercial Lot",
+    "location": "J.P. Laurel Avenue, Bajada, Davao City",
+    "property_type": "Commercial Lot",
+    "description": "This 4,152 sqm commercial lot is located along Lanang area where big developments like SM Lanang Premier, Lanang Business Park, Damosa Gateway, and the upcoming Azuela Cove by Ayala are situated. As seen to be the next central business district of Davao City, this property would be perfect for developments that would cater to the booming business hub of Lanang. The property’s neighborhood is also the perfect fusion for residential and commercial development.",
+    "thumb_path": "commercial_lot_4125.jpg",
+    "banner_path": "commercial_lot_4152.png",
+    "active": true,
+    "feature_flag": true,
+    "status": "",
+    "url_path": "4152sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "4,337 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "44.63 m"
+      },
+      {
+        "icon": "broadcast-tower",
+        "key": "Existing Structures",
+        "value": "Light Structures"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Hotels, Showrooms, Gas station with Commercial Building, Free standing/Drive Thru Restaurants, Condominium, and Depots."
+      }
+    ],
+    "keywords": "commercial lot in lanang, lanang lot, commercial lot for lease in lanang, lot lease in lanang, Lanang Area lots, 4,000 sqm lot for lease/rent in Davao, 4,000 sqm lot for lease/rent in Lanang, Available lots in Lanang"
+  },
+  {
+    "listing_id": 3,
+    "property_name": "10,407 Commercial Lot",
+    "property_type": "Commercial Lot",
+    "location": "C.P. Garcia Highway, Buhangin, Davao City",
+    "description": "This property is situated along Carlos P. Garcia Highway, Buhangin, Davao City. Both the north and south part of Davao can be easily reached from the location of this 1.2-hectare property, offering efficient travel time to every direction.  It is conveniently located 1.2 kilometers away from the Francisco Bangoy Davao International Airport. With 200m frontage, one can fully take advantage of the maximum visibility and exposure this property has to offer.",
+    "thumb_path": "commercial_lot_10407.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "10407sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "4,337 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "44.63 m"
+      },
+      {
+        "icon": "broadcast-tower",
+        "key": "Existing Structures",
+        "value": "Light Structures"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Hotels, Showrooms, Gas station with Commercial Building, Free standing/Drive Thru Restaurants, Condominium, and Depots."
+      }
+    ],
+    "keywords": "commercial lot in Buhangin, Buhangin lot, commercial lot for lease in Buhangin, lot lease in Buhangin, Buhangin Area lots, 10,000 sqm lot for lease/rent in Davao, 10,000 sqm lot for lease/rent in Buhangin, Available lots in Buhangin"
+  },
+  {
+    "listing_id": 4,
+    "property_name": "10 Hectares Commercial Lot",
+    "property_type": "Commercial Lot",
+    "location": "MacArthur Hwy., Davao-Bukidnon Rd., Brgy. Sto. Niño, Tugbok, Davao City",
+    "description": "A 10-hectare commercial lot surrounded by several residential subdivisions making it viable for commercial and eco-tourism developments. This property is situated in the Davao-Bukidnon Road, one of Davao’s primary gateways. The immediate vicinity mostly includes schools such as Philippine Science High School-Southern Mindanao Campus, Holy Child School of Davao-Mintal Campus and Holy Cross of Davao College-Mintal.",
+    "thumb_path": "commercial_lot_10hectare.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "10ha-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "10 hectares"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "140 m"
+      },
+      {
+        "icon": "broadcast-tower",
+        "key": "Existing Structures",
+        "value": "Light Structures"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Eco-tourism, Zoo Park, Waterparks, Theme Parks, Residential Subdivision, and Condominium"
+      }
+    ],
+    "keywords": ""
+  },
+  {
+    "listing_id": 5,
+    "property_name": "Lanang Business Park",
+    "property_type": "Commercial Lot",
+    "location": "J.P. Laurel, Lanang, Davao City",
+    "description": "Located within Lanang Business Park that has a diverse set of tenants such as restaurants, coffee shops, restobar & offices. Its business park’s open area concept gives maximum exposure to any businesses on this compound. Situated near establishments such as SM Lanang Premier, Damosa Gateway, and several quality hotels such as Dusit Thani, Waterfront Hotel, Park Inn by Radisson, and Grand Regal Hotel.",
+    "thumb_path": "lanang_business_park.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "lanang-business-park",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "2,089 sqm (can be subdivided to 500 sqm per lot area)"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "18m along J.P. Laurel Avenue x 116m along LBP driveway"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Restaurants, Coffee Shops, and Milk Tea Shops"
+      }
+    ],
+    "keywords": "commercial lot in lanang, lanang lot, commercial lot for lease in lanang, lot lease in lanang, Lanang Area lots, 500 sqm lot for lease/rent in Davao, 500 sqm lot for lease/rent in Lanang, Available lots in Lanang"
+  },
+  {
+    "listing_id": 6,
+    "property_name": "1,993 Commercial Lot",
+    "property_type": "Commercial Lot",
+    "location": "J.P. Laurel, Bajada, Davao City",
+    "description": "Situated in a highly commercialized zone of Bajada with big institutions and establishments such as Social Security System-Davao and Southern Philippines Medical Center, and other prominent landmarks. The property offers high foot traffic with various transportation facilities making it a viable destination for different investors looking to take their business into Davao City.",
+    "thumb_path": "1993_commercial_lot.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "1993-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "1,993 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "8.45 m"
+      },
+      {
+        "icon": "street-view",
+        "key": "Proximities",
+        "value": "Beside Southern Philippines Medical Center"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Hotels and Condominiums"
+      }
+    ],
+    "keywords": "commercial lot in lanang, lanang lot, commercial lot for lease in lanang, lot lease in lanang, Lanang Area lots, 2,000 sqm lot for lease/rent in Davao, 1,000 sqm lot for lease/rent in Davao, 2,000 sqm lot for lease/rent in Bajada, Available lots in Bajada"
+  },
+  {
+    "listing_id": 7,
+    "property_name": "6,447 Commercial Lot",
+    "property_type": "Commercial Lot",
+    "location": "R.Castillo St., Agdao, Davao City",
+    "description": "This 6,447 sqm commercial lot is Located along R. Castillo, the road that connects J.P. Laurel Avenue and Agdao district. Easily accessible via public and private transportation has high vehicular traffic. This corner lot gives wider frontage and maximum visibility to commercial developments on this property.",
+    "thumb_path": "commercial_lot_6447.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "6447sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "6,447 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "45 m"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Gas Station, Hotels, Warehouse, Apartment/Residential Inn"
+      }
+    ],
+    "keywords": ""
+  },
+  {
+    "listing_id": 8,
+    "property_name": "3,000 Commercial Lot",
+    "property_type": "Commercial Lot",
+    "location": "C.P. Garcia Highway, Buhangin, Davao City",
+    "description": "This property is situated along C.P. Garcia Highway, Buhangin, Davao City. It is located beside in front of Davao Riverfront Corporate City (Crocodile Park). It is positioned in a strategic location with proximities to residential and commercial areas. This 3,000 sqm commercial lot is highly accessible to public and private transportation since it is strategically located along the highway.",
+    "thumb_path": "commercial_lot_3000.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "3000sqm-commercial-lot",
+    "specs": [
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Lot Size",
+        "value": "3,000 sqm"
+      },
+      {
+        "icon": "grip-horizontal",
+        "key": "Frontage",
+        "value": "34 m"
+      },
+      {
+        "key": "Ideal Development",
+        "value": "Gas Station, Hotels, Warehouse, Depots, Showrooms"
+      }
+    ],
+    "keywords": "commercial lot in Buhangin, Buhangin lot, commercial lot for lease in Buhangin, lot lease in Buhangin, Buhangin Area lots, 3,000 sqm lot for lease/rent in Davao, 3,000 sqm lot for lease/rent in Buhangin, Available lots in Buhangin"
+  },
+  {
+    "listing_id": 9,
+    "property_name": "Felcris Centrale Mall",
+    "property_type": "Office Space",
+    "location": "Quimpo Blvd., Talomo, Davao City",
+    "description": "In the heart of Mindanao is Felcris Corporate Center. A 12-storey, commercial development with a 10-level, PEZA Accredited office building to cater to your high demand of corporate and BPO office spaces and a 2-level retail component which brings you an upscale experience in Davao. It has robust facilities that support 24/7 operations, which is ideal for BPO, IT & traditional offices with its outstanding features – fiber-optic ready and having full back-up power, which brings you guaranteed operational efficiency.",
+    "thumb_path": "felcris_centrale_mall.jpg",
+    "banner_path": "felcris_centrale_mall.png",
+    "active": true,
+    "feature_flag": true,
+    "status": "",
+    "url_path": "felcris-corporate-center",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "certificate",
+        "key": "Certification",
+        "value": "PEZA registered"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "1,592 sqm"
+      },
+      {
+        "icon": "check-double",
+        "key": "Available spaces",
+        "value": "300 sqm – 1,350 sqm"
+      },
+      {
+        "icon": "parking",
+        "key": "Parking Slots",
+        "value": "2 level basement parking"
+      }
+    ],
+    "keywords": "Commercial Mall for Rent/ Lease, Mall Space for Rent, Mall space rental, Commercial Space for Lease in Downtown, Commercial Space for Lease, Commercial Space in Mall, Commercial Space for Franchise Carts"
+  },
+  {
+    "listing_id": 10,
+    "property_name": "Cybergate Delta 1",
+    "property_type": "Office Space",
+    "location": "J.P. Laurel Ave., Bajada, Davao City",
+    "description": "A 5-storey office building with a retail component on the ground floor. Conveniently positioned in J.P Laurel Ave., Bajada, known for becoming the center of commerce in Davao City. This highly regarded building is built with industry standard structural design and security systems tailored fit for BPO, I.T. companies and other private organizations.",
+    "thumb_path": "cybergate_delta_building.jpg",
+    "banner_path": "cyber_gate_delta.png",
+    "active": true,
+    "feature_flag": true,
+    "status": "Leased Out",
+    "url_path": "cybergate-delta-1",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "certificate",
+        "key": "Certification",
+        "value": "PEZA registered"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "5 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "6,800 sqm"
+      },
+      {
+        "icon": "check-double",
+        "key": "Available spaces",
+        "value": "600 sqm – 2,500 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Warm Shell with VRF A / C units"
+      },
+      {
+        "icon": "clipboard-list",
+        "key": "Other Features",
+        "value": "100% back up power, Fiber-optic Ready"
+      }
+    ],
+    "keywords": ""
+  },
+  {
+    "listing_id": 11,
+    "property_name": "Alyvea Corporate Center",
+    "property_type": "Office Space",
+    "location": "Sta. Ana Ave., Poblacion, Davao City",
+    "description": "A newly developed commercial and office building strategically located in a highly commercialized area of Sta Ana Ave., Poblacion, Davao City. A corner property with maximum exposure that is accessible through public and private transportation. This state - of - the - art development is situated near universities, malls, hotels, restaurants and other retail stores that makes any tenant’ s business viable given also the area’ s high - foot traffic.",
+    "thumb_path": "alyvea_corporate_center.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "alyvea-corporate-center",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "6 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "3,500 sqm"
+      },
+      {
+        "icon": "check-double",
+        "key": "Available spaces",
+        "value": "522 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Bare Shell"
+      }
+    ],
+    "keywords": "500 sqm Office Space in Davao City, City Proper office space in Davao, Sta. Ana Davao City Office Space for Rent"
+  },
+  {
+    "listing_id": 12,
+    "property_name": "Stockbridge",
+    "property_type": "Office Space",
+    "location": "Maa,  Talomo, Davao City",
+    "description": "A 6- storey brand new office building ideal for BPO, I.T companies and private firms. Conveniently located along Ma-a road to cater to the office needs of the expanding businesses in Southern part of Davao City. Situated a few meters away from S&R, Matina Town Square, other commercial buildings and residential subdivisions making it a potential workplace for different organizations.",
+    "thumb_path": "stockbridge.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "stockbridge-building",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "4Q 2018"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "6 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "5,136 sqm"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "1,284 sqm"
+      },
+      {
+        "icon": "parking",
+        "key": "Parking Slots",
+        "value": "Open Car Parking Space"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Bare Shell"
+      }
+    ],
+    "keywords": "Office Space in Maa, Office Space for Lease in Maa, Maa Office"
+  },
+  {
+    "listing_id": 13,
+    "property_name": "Commercial Building I",
+    "property_type": "Retail Space",
+    "location": "Palma Gil St., Davao City",
+    "description": "Being in the center of downtown surrounded by countless city attractions, hotels, retail establishments and offices, this 4-storey commercial building guarantees visibility and efficiency to different businesses and companies.  With the potential to be a new hub for your business operations, this is one to look at in your move to the King City of the South.",
+    "thumb_path": "commercial_building_1.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "commercial-building-1",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "4 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "1,600 sqm"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "400 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Fitted with Partitions"
+      }
+    ],
+    "keywords": "Office Building for lease, Office building for Rent, Ready for occupancy office and/ commercial building for rent"
+  },
+  {
+    "listing_id": 14,
+    "property_name": "Commercial Building II",
+    "property_type": "Retail Space",
+    "location": "Palma Gil St., Davao City",
+    "description": "A 4-storey building located in one of the commercialized districts in the metro. Accessible from the northern and southern part of the city with surrounding retail establishments, restaurants, hotels, and office. This building allows 24/7 operations to cater for your business’ undertakings.",
+    "thumb_path": "",
+    "banner_path": "felcris_centrale.png",
+    "active": false,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "commercial-building-2",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "4 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "800 sqm"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "200 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Fitted with Partitions"
+      }
+    ],
+    "keywords": "Office Building for lease, Office building for Rent, Ready for occupancy office and/ commercial building for rent"
+  },
+  {
+    "listing_id": 15,
+    "property_name": "Araullo St. Building",
+    "property_type": "Retail Space",
+    "location": "Araullo St, Jacinto Extension, Davao City",
+    "description": "This brand-new commercial building is advantageously located in Araullo St. of metro Davao, surrounded by BPO’s, IT firms, Private and Public offices that provides its tenants accessibility and commerciality. Equipped with 100 % back-up power, VRF A/C units, and security cameras makes this ready to move into and assures workplace efficiency.",
+    "thumb_path": "araullo_street_building.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "araullo-street-building",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "Ready for Occupancy"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "3 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "1200 sqm"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "400 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Fitted with Partitions, VRF A/C Units and glass doors"
+      }
+    ],
+    "keywords": "Office Space for Rent, Ready for Occupancy, Fully Furnished Office Space in Davao City, BPO Ready Office Spaces, Office Spaces Fully Fitted"
+  },
+  {
+    "listing_id": 16,
+    "property_name": "Davao Finance Center",
+    "property_type": "Office Space",
+    "location": "SP Dacudao Loop, Lanang, Davao City",
+    "description": "Standing tall in a master planned community in Lanang area, is this 14-storey office building designed to cater to the needs of the growing BPO industry. Strategically located beside SM Lanang Premier, this development offers a high class and complete lifestyle to organization’s employees with the availability of residential condominium, hospital, hotel and retail stores surrounding the building.",
+    "thumb_path": "davao_finance_center.jpg",
+    "banner_path": "felcris_centrale.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "davao-finance-center",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "4Q 2018"
+      },
+      {
+        "icon": "certificate",
+        "key": "Certification",
+        "value": "Ongoing PEZA Registration"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "25,831 sqm"
+      },
+      {
+        "icon": "vector-square",
+        "key": "Typical Floor Plate",
+        "value": "2,000 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Bare shell with VRF A/C units"
+      },
+      {
+        "icon": "clipboard-list",
+        "key": "Other Features",
+        "value": "100% backup power, Fiber-optic ready"
+      }
+    ],
+    "keywords": "PEZA Registered Office Space, Grade A office building for lease in Davao, PEZA Office Space in Davao City"
+  },
+  {
+    "listing_id": 17,
+    "property_name": "Cybergate Delta 2",
+    "property_type": "Office Space",
+    "location": "J.P. Laurel Ave., Bajada, Davao City",
+    "description": "(PRE-LEASING) The next phase after Robinsons' Cybergate Delta Tower 1 rises Cybergate Delta 2: A 7-storey PEZA Registered, office building with Grade A facilities. This building is adjacently located with their Tower 1 in J.P Laurel Ave., Bajada, which is the main thoroughfare in Davao City. Cybergate Delta 2 is equally built on industry standard structural design and security systems tailored fit for BPO, I.T. companies and other private organizations.",
+    "thumb_path": "delta_2_perspective.jpg",
+    "banner_path": "delta_2_perspective.png",
+    "active": true,
+    "feature_flag": false,
+    "status": "",
+    "url_path": "cybergate-delta-2",
+    "specs": [
+      {
+        "icon": "calendar-check",
+        "key": "Completion Date",
+        "value": "1Q of 2020"
+      },
+      {
+        "icon": "certificate",
+        "key": "Certification",
+        "value": "PEZA registered"
+      },
+      {
+        "icon": "layer-group",
+        "key": "Number of Floors",
+        "value": "7 Floors"
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "key": "Gross Leasable Area",
+        "value": "17,500 sqm"
+      },
+      {
+        "icon": "check-double",
+        "key": "Available spaces",
+        "value": "600 sqm – 2,500 sqm"
+      },
+      {
+        "icon": "handshake",
+        "key": "Handover Condition",
+        "value": "Semi-warm Shell with VRF A/C units"
+      },
+      {
+        "icon": "clipboard-list",
+        "key": "Other Features",
+        "value": "100% back up power, Fiber-optic Ready"
+      }
+    ],
+    "keywords": ""
+  }
+]
